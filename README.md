@@ -12,7 +12,7 @@ npm install
 ## Geliştirme sunucusunu başlat
 npm run dev          #Uygulama http://localhost:3000 adresinde başlatılacaktır
 
-## İsterler doğrultusunda gerçekleştirilen işlemler :
+# İsterler doğrultusunda gerçekleştirilen işlemler :
 
 - Microservis tarafına ApiGateway eklendi.
 
