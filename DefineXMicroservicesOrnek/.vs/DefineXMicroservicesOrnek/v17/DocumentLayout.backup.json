@@ -1,0 +1,2165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3063814A-54AF-49D7-825C-21B8716CC237}|DefineX.ApiGateway\\DefineX.ApiGateway.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3063814A-54AF-49D7-825C-21B8716CC237}|DefineX.ApiGateway\\DefineX.ApiGateway.csproj|solutionrelative:definex.apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.productapi\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|solutionrelative:definex.services.productapi\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.productapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|solutionrelative:definex.services.productapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|solutionrelative:definex.services.productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.productapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|solutionrelative:definex.services.productapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.productapi\\definex.services.productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|solutionrelative:definex.services.productapi\\definex.services.productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.productapi\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|solutionrelative:definex.services.productapi\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\areas\\customer\\views\\cart\\cartindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\customer\\views\\cart\\cartindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.couponapi\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|solutionrelative:definex.services.couponapi\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.identity\\initializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\initializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.identity\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3063814A-54AF-49D7-825C-21B8716CC237}|DefineX.ApiGateway\\DefineX.ApiGateway.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3063814A-54AF-49D7-825C-21B8716CC237}|DefineX.ApiGateway\\DefineX.ApiGateway.csproj|solutionrelative:definex.apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.identity\\definex.services.identity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\definex.services.identity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.identity\\services\\profileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\services\\profileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.identity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.identity\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.couponapi\\definex.services.couponapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|solutionrelative:definex.services.couponapi\\definex.services.couponapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3063814A-54AF-49D7-825C-21B8716CC237}|DefineX.ApiGateway\\DefineX.ApiGateway.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.apigateway\\definex.apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3063814A-54AF-49D7-825C-21B8716CC237}|DefineX.ApiGateway\\DefineX.ApiGateway.csproj|solutionrelative:definex.apigateway\\definex.apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|solutionrelative:definex.services.couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|solutionrelative:definex.services.couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.shoppingcartapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.couponapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|solutionrelative:definex.services.couponapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3063814A-54AF-49D7-825C-21B8716CC237}|DefineX.ApiGateway\\DefineX.ApiGateway.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3063814A-54AF-49D7-825C-21B8716CC237}|DefineX.ApiGateway\\DefineX.ApiGateway.csproj|solutionrelative:definex.apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3063814A-54AF-49D7-825C-21B8716CC237}|DefineX.ApiGateway\\DefineX.ApiGateway.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3063814A-54AF-49D7-825C-21B8716CC237}|DefineX.ApiGateway\\DefineX.ApiGateway.csproj|solutionrelative:definex.apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.shoppingcartapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.shoppingcartapi\\definex.services.shoppingcartapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\definex.services.shoppingcartapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.shoppingcartapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.couponapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|solutionrelative:definex.services.couponapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD20665-E742-4625-8A45-019BB4221E1A}|DefineX.MessageBus\\DefineX.MessageBus.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.messagebus\\basemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD20665-E742-4625-8A45-019BB4221E1A}|DefineX.MessageBus\\DefineX.MessageBus.csproj|solutionrelative:definex.messagebus\\basemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD20665-E742-4625-8A45-019BB4221E1A}|DefineX.MessageBus\\DefineX.MessageBus.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.messagebus\\imessagebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD20665-E742-4625-8A45-019BB4221E1A}|DefineX.MessageBus\\DefineX.MessageBus.csproj|solutionrelative:definex.messagebus\\imessagebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.shoppingcartapi\\rabbitmqsender\\rabbitmqcartmessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\rabbitmqsender\\rabbitmqcartmessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.shoppingcartapi\\rabbitmqsender\\irabbitmqcartmessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\rabbitmqsender\\irabbitmqcartmessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\definexweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\definexweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.shoppingcartapi\\controllers\\cartapicheckoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\controllers\\cartapicheckoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.shoppingcartapi\\controllers\\cartapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\controllers\\cartapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|solutionrelative:definex.services.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.couponapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|solutionrelative:definex.services.couponapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.identity\\keys\\is-signing-key-0f8e4374730062a9199b17420123c1c6.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\keys\\is-signing-key-0f8e4374730062a9199b17420123c1c6.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.identity\\initializer\\idbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\initializer\\idbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.shoppingcartapi\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.identity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.couponapi\\definex.services.couponapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|solutionrelative:definex.services.couponapi\\definex.services.couponapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|solutionrelative:definex.services.productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\models\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\models\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.shoppingcartapi\\definex.services.shoppingcartapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\definex.services.shoppingcartapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.shoppingcartapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.shoppingcartapi\\migrations\\20250316100715_databaseinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\migrations\\20250316100715_databaseinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.shoppingcartapi\\messages\\checkoutheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\messages\\checkoutheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.shoppingcartapi\\repository\\couponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\repository\\couponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.shoppingcartapi\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.shoppingcartapi\\repository\\icouponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\repository\\icouponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.shoppingcartapi\\repository\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\repository\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.shoppingcartapi\\models\\dto\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\models\\dto\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.shoppingcartapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.shoppingcartapi\\models\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\models\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.shoppingcartapi\\models\\dto\\cartdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\models\\dto\\cartdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.shoppingcartapi\\models\\dto\\cartheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\models\\dto\\cartheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.shoppingcartapi\\models\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\models\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.shoppingcartapi\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.shoppingcartapi\\models\\cartdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\models\\cartdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.shoppingcartapi\\models\\cartheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\models\\cartheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.shoppingcartapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\services\\iservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\services\\iservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\services\\iservices\\icouponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\services\\iservices\\icouponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\services\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\services\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.couponapi\\repository\\couponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|solutionrelative:definex.services.couponapi\\repository\\couponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.couponapi\\repository\\icouponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|solutionrelative:definex.services.couponapi\\repository\\icouponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.couponapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|solutionrelative:definex.services.couponapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.couponapi\\models\\dto\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|solutionrelative:definex.services.couponapi\\models\\dto\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.couponapi\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|solutionrelative:definex.services.couponapi\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\services\\iservices\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\services\\iservices\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.identity\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.identity\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.identity\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.identity\\mainmodule\\account\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\mainmodule\\account\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.identity\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|solutionrelative:definex.services.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.productapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|solutionrelative:definex.services.productapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.productapi\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|solutionrelative:definex.services.productapi\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\areas\\customer\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\customer\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\areas\\customer\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\customer\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\areas\\customer\\views\\cart\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\customer\\views\\cart\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\areas\\customer\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\customer\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\services\\iservices\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\services\\iservices\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\models\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\models\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\models\\cartheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\models\\cartheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\models\\cartdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\models\\cartdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\views\\shared\\_adminloginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\views\\shared\\_adminloginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\areas\\admin\\controllers\\yoneticicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\admin\\controllers\\yoneticicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\areas\\admin\\views\\yonetici\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\admin\\views\\yonetici\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\areas\\admin\\views\\yonetici\\git.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\admin\\views\\yonetici\\git.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\areas\\admin\\views\\product\\productindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\admin\\views\\product\\productindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\areas\\admin\\views\\product\\productedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\admin\\views\\product\\productedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\areas\\admin\\views\\product\\productdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\admin\\views\\product\\productdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\areas\\admin\\views\\product\\productcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\admin\\views\\product\\productcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\viewmodels\\uploadimageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\viewmodels\\uploadimageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\viewmodels\\editimageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\viewmodels\\editimageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\models\\apirequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\models\\apirequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definexweb\\models\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\models\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.identity\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.identity\\views\\account\\loggedout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\views\\account\\loggedout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.identity\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.productapi\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|solutionrelative:definex.services.productapi\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.productapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|solutionrelative:definex.services.productapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.productapi\\migrations\\20250315092733_databaseinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|solutionrelative:definex.services.productapi\\migrations\\20250315092733_databaseinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.identity\\migrations\\20250315112434_databaseinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\migrations\\20250315112434_databaseinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.couponapi\\migrations\\20250316084410_databaseinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|solutionrelative:definex.services.couponapi\\migrations\\20250316084410_databaseinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.couponapi\\migrations\\20250321213138_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|solutionrelative:definex.services.couponapi\\migrations\\20250321213138_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.shoppingcartapi\\migrations\\20250321213855_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\migrations\\20250321213855_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.identity\\migrations\\20250321213634_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\migrations\\20250321213634_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|c:\\users\\asus\\desktop\\definex_finalproject-main\\definexmicroservicesornek\\definex.services.productapi\\migrations\\20250321212255_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|solutionrelative:definex.services.productapi\\migrations\\20250321212255_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 240,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "DefineX.ApiGateway\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.ApiGateway\\Program.cs",
+              "RelativeToolTip": "DefineX.ApiGateway\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwDkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:05:20.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\dbcontexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\dbcontexts\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\dbcontexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DefineX.Services.ProductAPI\\dbcontexts\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T09:05:37.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DefineX.Services.ProductAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj",
+              "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj",
+              "RelativeToolTip": "DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-15T09:03:45.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\dto\\ProductDto.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\dto\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\dto\\ProductDto.cs",
+              "RelativeToolTip": "DefineX.Services.ProductAPI\\dto\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T09:04:23.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\SD.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\SD.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\SD.cs",
+              "RelativeToolTip": "DefineXWeb\\SD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:46:16.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
+              "RelativeToolTip": "DefineX.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:14:10.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Models\\Product.cs",
+              "RelativeToolTip": "DefineX.Services.ProductAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T09:03:28.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "DefineX.Services.ProductAPI\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T09:16:12.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Views\\Cart\\CartIndex.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Customer\\Views\\Cart\\CartIndex.cshtml",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Views\\Cart\\CartIndex.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Areas\\Customer\\Views\\Cart\\CartIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T13:01:24.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Initializer\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.Identity\\Initializer\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Initializer\\DbInitializer.cs",
+              "RelativeToolTip": "DefineX.Services.Identity\\Initializer\\DbInitializer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:12:08.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "DefineXWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAJwAAAAALzMzMzMswDgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:12:25.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Customer\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Controllers\\CartController.cs",
+              "RelativeToolTip": "DefineXWeb\\Areas\\Customer\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAIUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:59:19.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProfileService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Services\\ProfileService.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.Identity\\Services\\ProfileService.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Services\\ProfileService.cs",
+              "RelativeToolTip": "DefineX.Services.Identity\\Services\\ProfileService.cs",
+              "ViewState": "AgIAAAcAAACAAAAAAEAgwAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:14:06.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.ApiGateway\\ocelot.json",
+              "RelativeDocumentMoniker": "DefineX.ApiGateway\\ocelot.json",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.ApiGateway\\ocelot.json",
+              "RelativeToolTip": "DefineX.ApiGateway\\ocelot.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-26T22:00:42.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.CouponAPI\\DbContexts\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DefineX.Services.CouponAPI\\DbContexts\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T08:31:12.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.Identity\\DbContexts\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DefineX.Services.Identity\\DbContexts\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:12:43.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Program.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.Identity\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Program.cs",
+              "RelativeToolTip": "DefineX.Services.Identity\\Program.cs",
+              "ViewState": "AgIAAAYAAAAARDMzMzP7vyEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:17:09.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "DefineXWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\appsettings.json",
+              "RelativeToolTip": "DefineXWeb\\appsettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T11:46:37.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DefineX.Services.CouponAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj",
+              "RelativeDocumentMoniker": "DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj",
+              "RelativeToolTip": "DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-16T08:28:30.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DefineX.ApiGateway.csproj",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.ApiGateway\\DefineX.ApiGateway.csproj",
+              "RelativeDocumentMoniker": "DefineX.ApiGateway\\DefineX.ApiGateway.csproj",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.ApiGateway\\DefineX.ApiGateway.csproj",
+              "RelativeToolTip": "DefineX.ApiGateway\\DefineX.ApiGateway.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-26T21:44:41.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\SD.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.Identity\\SD.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\SD.cs",
+              "RelativeToolTip": "DefineX.Services.Identity\\SD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:14:47.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DefineX.Services.Identity.csproj",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\DefineX.Services.Identity.csproj",
+              "RelativeDocumentMoniker": "DefineX.Services.Identity\\DefineX.Services.Identity.csproj",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\DefineX.Services.Identity.csproj",
+              "RelativeToolTip": "DefineX.Services.Identity\\DefineX.Services.Identity.csproj",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-15T11:11:16.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\Program.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.CouponAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\Program.cs",
+              "RelativeToolTip": "DefineX.Services.CouponAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T08:35:49.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\appsettings.json",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T09:52:01.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "DefineX.Services.CouponAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\appsettings.json",
+              "RelativeToolTip": "DefineX.Services.CouponAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T08:33:34.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DefineX.Services.CouponAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DefineX.Services.CouponAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T08:34:12.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.ApiGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "DefineX.ApiGateway\\appsettings.json",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.ApiGateway\\appsettings.json",
+              "RelativeToolTip": "DefineX.ApiGateway\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-26T23:12:00.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BaseMessage.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.MessageBus\\BaseMessage.cs",
+              "RelativeDocumentMoniker": "DefineX.MessageBus\\BaseMessage.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.MessageBus\\BaseMessage.cs",
+              "RelativeToolTip": "DefineX.MessageBus\\BaseMessage.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIBQwAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:47:02.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.ApiGateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DefineX.ApiGateway\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.ApiGateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DefineX.ApiGateway\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-26T23:03:51.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T09:52:46.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DefineX.Services.ShoppingCartAPI.http",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.http",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.http",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.http",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-26T22:57:40.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\MappingConfig.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\MappingConfig.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\MappingConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:42:49.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IMessageBus.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.MessageBus\\IMessageBus.cs",
+              "RelativeDocumentMoniker": "DefineX.MessageBus\\IMessageBus.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.MessageBus\\IMessageBus.cs",
+              "RelativeToolTip": "DefineX.MessageBus\\IMessageBus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:45:55.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.CouponAPI\\MappingConfig.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\MappingConfig.cs",
+              "RelativeToolTip": "DefineX.Services.CouponAPI\\MappingConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T08:30:12.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RabbitMQCartMessageSender.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\RabbitMQSender\\RabbitMQCartMessageSender.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\RabbitMQSender\\RabbitMQCartMessageSender.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\RabbitMQSender\\RabbitMQCartMessageSender.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\RabbitMQSender\\RabbitMQCartMessageSender.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:50:36.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IRabbitMQCartMessageSender.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\RabbitMQSender\\IRabbitMQCartMessageSender.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\RabbitMQSender\\IRabbitMQCartMessageSender.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\RabbitMQSender\\IRabbitMQCartMessageSender.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\RabbitMQSender\\IRabbitMQCartMessageSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:49:42.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DefineXWeb.csproj",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\DefineXWeb.csproj",
+              "RelativeDocumentMoniker": "DefineXWeb\\DefineXWeb.csproj",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\DefineXWeb.csproj",
+              "RelativeToolTip": "DefineXWeb\\DefineXWeb.csproj",
+              "ViewState": "AgIAABUAAAAANDMzM7MuwBgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-15T11:46:06.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DefineXWeb\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DefineXWeb\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAoAAAA4m5mZmZkewBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T12:00:24.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CartAPICheckOutController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Controllers\\CartAPICheckOutController.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\Controllers\\CartAPICheckOutController.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Controllers\\CartAPICheckOutController.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\Controllers\\CartAPICheckOutController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwD8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T10:00:51.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CartAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Controllers\\CartAPIController.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\Controllers\\CartAPIController.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Controllers\\CartAPIController.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\Controllers\\CartAPIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:55:44.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CouponAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "RelativeToolTip": "DefineX.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T08:38:54.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "DefineX.Services.CouponAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\appsettings.Development.json",
+              "RelativeToolTip": "DefineX.Services.CouponAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T21:30:15.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 130,
+              "Title": "20250321213138_initial.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\Migrations\\20250321213138_initial.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.CouponAPI\\Migrations\\20250321213138_initial.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\Migrations\\20250321213138_initial.cs",
+              "RelativeToolTip": "DefineX.Services.CouponAPI\\Migrations\\20250321213138_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T21:31:38.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "is-signing-key-0F8E4374730062A9199B17420123C1C6.json",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\keys\\is-signing-key-0F8E4374730062A9199B17420123C1C6.json",
+              "RelativeDocumentMoniker": "DefineX.Services.Identity\\keys\\is-signing-key-0F8E4374730062A9199B17420123C1C6.json",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\keys\\is-signing-key-0F8E4374730062A9199B17420123C1C6.json",
+              "RelativeToolTip": "DefineX.Services.Identity\\keys\\is-signing-key-0F8E4374730062A9199B17420123C1C6.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T22:04:39.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 131,
+              "Title": "20250321213855_initial.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Migrations\\20250321213855_initial.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\Migrations\\20250321213855_initial.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Migrations\\20250321213855_initial.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\Migrations\\20250321213855_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T21:38:55.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IDbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Initializer\\IDbInitializer.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.Identity\\Initializer\\IDbInitializer.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Initializer\\IDbInitializer.cs",
+              "RelativeToolTip": "DefineX.Services.Identity\\Initializer\\IDbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:11:54.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\DbContexts\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\DbContexts\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:42:21.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\appsettings.json",
+              "RelativeDocumentMoniker": "DefineX.Services.Identity\\appsettings.json",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\appsettings.json",
+              "RelativeToolTip": "DefineX.Services.Identity\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAkAAACxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T11:13:06.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 132,
+              "Title": "20250321213634_initial.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Migrations\\20250321213634_initial.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.Identity\\Migrations\\20250321213634_initial.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Migrations\\20250321213634_initial.cs",
+              "RelativeToolTip": "DefineX.Services.Identity\\Migrations\\20250321213634_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T21:36:34.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DefineX.Services.CouponAPI.http",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.http",
+              "RelativeDocumentMoniker": "DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.http",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.http",
+              "RelativeToolTip": "DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-21T21:30:13.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\appsettings.json",
+              "RelativeToolTip": "DefineX.Services.ProductAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T09:09:41.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 133,
+              "Title": "20250321212255_initial.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Migrations\\20250321212255_initial.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\Migrations\\20250321212255_initial.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Migrations\\20250321212255_initial.cs",
+              "RelativeToolTip": "DefineX.Services.ProductAPI\\Migrations\\20250321212255_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T21:22:56.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Services\\BaseService.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\Services\\BaseService.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Services\\BaseService.cs",
+              "RelativeToolTip": "DefineXWeb\\Services\\BaseService.cs",
+              "ViewState": "AgIAAAwAAACAMzMzMzMcwBoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:51:08.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Services\\ProductService.cs",
+              "RelativeToolTip": "DefineXWeb\\Services\\ProductService.cs",
+              "ViewState": "AgIAACAAAABwMzMzM7MSwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:58:18.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DefineXWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAASwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:54:02.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DefineX.Services.ShoppingCartAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj",
+              "ViewState": "AgIAABAAAACAZmZmZiYswBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-16T09:30:38.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CouponDto.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Models\\CouponDto.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\Models\\CouponDto.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Models\\CouponDto.cs",
+              "RelativeToolTip": "DefineXWeb\\Models\\CouponDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T11:28:56.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Program.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Program.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\Program.cs",
+              "ViewState": "AgIAAA8AAACgmZmZmRkrwBIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:53:33.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20250316100715_databaseinit.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Migrations\\20250316100715_databaseinit.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\Migrations\\20250316100715_databaseinit.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Migrations\\20250316100715_databaseinit.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\Migrations\\20250316100715_databaseinit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T10:07:15.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CheckoutHeaderDto.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Messages\\CheckoutHeaderDto.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\Messages\\CheckoutHeaderDto.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Messages\\CheckoutHeaderDto.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\Messages\\CheckoutHeaderDto.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIA5wBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:48:29.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Repository\\CartRepository.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\Repository\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Repository\\CartRepository.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\Repository\\CartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T10:04:45.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CouponRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Repository\\CouponRepository.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\Repository\\CouponRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Repository\\CouponRepository.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\Repository\\CouponRepository.cs",
+              "ViewState": "AgIAAAsAAABwZmZmZmYjwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T10:05:36.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ICouponRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Repository\\ICouponRepository.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\Repository\\ICouponRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Repository\\ICouponRepository.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\Repository\\ICouponRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T10:00:02.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Repository\\ICartRepository.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\Repository\\ICartRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Repository\\ICartRepository.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\Repository\\ICartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:40:40.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "CouponDto.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Models\\dto\\CouponDto.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\Models\\dto\\CouponDto.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Models\\dto\\CouponDto.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\Models\\dto\\CouponDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:39:39.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Models\\dto\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\Models\\dto\\ResponseDto.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Models\\dto\\ResponseDto.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\Models\\dto\\ResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:38:55.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CartDto.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Models\\dto\\CartDto.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\Models\\dto\\CartDto.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Models\\dto\\CartDto.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\Models\\dto\\CartDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:36:06.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "CartDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Models\\dto\\CartDetailsDto.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\Models\\dto\\CartDetailsDto.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Models\\dto\\CartDetailsDto.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\Models\\dto\\CartDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:35:28.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "CartHeaderDto.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Models\\dto\\CartHeaderDto.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\Models\\dto\\CartHeaderDto.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Models\\dto\\CartHeaderDto.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\Models\\dto\\CartHeaderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:34:50.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Models\\dto\\ProductDto.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\Models\\dto\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Models\\dto\\ProductDto.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\Models\\dto\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:34:15.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Models\\Cart.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:33:32.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "CartDetail.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Models\\CartDetail.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\Models\\CartDetail.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Models\\CartDetail.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\Models\\CartDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:33:02.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "CartHeader.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Models\\CartHeader.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\Models\\CartHeader.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Models\\CartHeader.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\Models\\CartHeader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:32:27.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Models\\Product.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAkAAAAAZWZmZmbyvxAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:31:47.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Program.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Program.cs",
+              "RelativeToolTip": "DefineXWeb\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAEAlwD8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:52:37.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAA0AAADgAQAAAEAlwBUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T13:01:57.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Services\\IServices\\IProductService.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\Services\\IServices\\IProductService.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Services\\IServices\\IProductService.cs",
+              "RelativeToolTip": "DefineXWeb\\Services\\IServices\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:55:52.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T13:01:51.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ICouponService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Services\\IServices\\ICouponService.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\Services\\IServices\\ICouponService.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Services\\IServices\\ICouponService.cs",
+              "RelativeToolTip": "DefineXWeb\\Services\\IServices\\ICouponService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T08:40:47.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "CouponService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Services\\CouponService.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\Services\\CouponService.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Services\\CouponService.cs",
+              "RelativeToolTip": "DefineXWeb\\Services\\CouponService.cs",
+              "ViewState": "AgIAAAoAAADAMzMzM7MQwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T08:41:45.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 129,
+              "Title": "20250316084410_databaseinit.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\Migrations\\20250316084410_databaseinit.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.CouponAPI\\Migrations\\20250316084410_databaseinit.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\Migrations\\20250316084410_databaseinit.cs",
+              "RelativeToolTip": "DefineX.Services.CouponAPI\\Migrations\\20250316084410_databaseinit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T08:44:10.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "CouponRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\Repository\\CouponRepository.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.CouponAPI\\Repository\\CouponRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\Repository\\CouponRepository.cs",
+              "RelativeToolTip": "DefineX.Services.CouponAPI\\Repository\\CouponRepository.cs",
+              "ViewState": "AgIAABIAAABAZmZmZmYhwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T08:32:14.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "ICouponRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\Repository\\ICouponRepository.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.CouponAPI\\Repository\\ICouponRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\Repository\\ICouponRepository.cs",
+              "RelativeToolTip": "DefineX.Services.CouponAPI\\Repository\\ICouponRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T08:28:48.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\Models\\dto\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.CouponAPI\\Models\\dto\\ResponseDto.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\Models\\dto\\ResponseDto.cs",
+              "RelativeToolTip": "DefineX.Services.CouponAPI\\Models\\dto\\ResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T08:28:00.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "CouponDto.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\Models\\dto\\CouponDto.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.CouponAPI\\Models\\dto\\CouponDto.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\Models\\dto\\CouponDto.cs",
+              "RelativeToolTip": "DefineX.Services.CouponAPI\\Models\\dto\\CouponDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T08:27:25.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Coupon.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\Models\\Coupon.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.CouponAPI\\Models\\Coupon.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\Models\\Coupon.cs",
+              "RelativeToolTip": "DefineX.Services.CouponAPI\\Models\\Coupon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T08:26:22.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "IBaseService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Services\\IServices\\IBaseService.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\Services\\IServices\\IBaseService.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Services\\IServices\\IBaseService.cs",
+              "RelativeToolTip": "DefineXWeb\\Services\\IServices\\IBaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:48:54.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABAAAABAMzMzM3MvwBoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T12:39:53.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DefineX.Services.Identity\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "DefineX.Services.Identity\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T02:24:28.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "DefineX.Services.Identity\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "DefineX.Services.Identity\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T02:24:34.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "DefineX.Services.Identity\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "DefineX.Services.Identity\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T11:19:44.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAgAAAAgMzMzM/MmwBMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T12:46:58.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\MainModule\\Account\\AccountController.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.Identity\\MainModule\\Account\\AccountController.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\MainModule\\Account\\AccountController.cs",
+              "RelativeToolTip": "DefineX.Services.Identity\\MainModule\\Account\\AccountController.cs",
+              "ViewState": "AgIAABUAAADgmZmZmdkhwBAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:19:49.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DefineX.Services.Identity\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DefineX.Services.Identity\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABAAAAAAZmZmZqYowBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T11:21:41.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T02:18:00.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBZwBAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T12:52:08.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Program.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Program.cs",
+              "RelativeToolTip": "DefineX.Services.ProductAPI\\Program.cs",
+              "ViewState": "AgIAAEQAAAAGAAAAAMAmwEoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T09:13:45.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\MappingConfig.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\MappingConfig.cs",
+              "RelativeToolTip": "DefineX.Services.ProductAPI\\MappingConfig.cs",
+              "ViewState": "AgIAAAcAAACA//////8KwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T09:08:53.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\dto\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\dto\\ResponseDto.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\dto\\ResponseDto.cs",
+              "RelativeToolTip": "DefineX.Services.ProductAPI\\dto\\ResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T09:04:42.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T13:02:02.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T13:02:19.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T13:02:00.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "Confirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Views\\Cart\\Confirmation.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Customer\\Views\\Cart\\Confirmation.cshtml",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Views\\Cart\\Confirmation.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Areas\\Customer\\Views\\Cart\\Confirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T13:01:47.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Views\\Cart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Customer\\Views\\Cart\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Views\\Cart\\Checkout.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Areas\\Customer\\Views\\Cart\\Checkout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T13:01:40.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Services\\CartService.cs",
+              "RelativeToolTip": "DefineXWeb\\Services\\CartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:57:49.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "CartDto.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Models\\CartDto.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\Models\\CartDto.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Models\\CartDto.cs",
+              "RelativeToolTip": "DefineXWeb\\Models\\CartDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:57:02.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "CartHeaderDto.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Models\\CartHeaderDto.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\Models\\CartHeaderDto.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Models\\CartHeaderDto.cs",
+              "RelativeToolTip": "DefineXWeb\\Models\\CartHeaderDto.cs",
+              "ViewState": "AgIAAAsAAAAQAAAAAGAzwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:56:26.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "CartDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Models\\CartDetailDto.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\Models\\CartDetailDto.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Models\\CartDetailDto.cs",
+              "RelativeToolTip": "DefineXWeb\\Models\\CartDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:56:15.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Services\\IServices\\ICartService.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\Services\\IServices\\ICartService.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Services\\IServices\\ICartService.cs",
+              "RelativeToolTip": "DefineXWeb\\Services\\IServices\\ICartService.cs",
+              "ViewState": "AgIAAAkAAAAwMzMzM/MywAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:55:05.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "_AdminLoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Shared\\_AdminLoginPartial.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Views\\Shared\\_AdminLoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Shared\\_AdminLoginPartial.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Views\\Shared\\_AdminLoginPartial.cshtml",
+              "ViewState": "AgIAAAUAAAAgNDMzM3MvwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T12:51:02.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T12:44:32.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "YoneticiController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Controllers\\YoneticiController.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Admin\\Controllers\\YoneticiController.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Controllers\\YoneticiController.cs",
+              "RelativeToolTip": "DefineXWeb\\Areas\\Admin\\Controllers\\YoneticiController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:10:36.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T12:40:30.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T12:40:05.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Views\\Yonetici\\Index.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Admin\\Views\\Yonetici\\Index.cshtml",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Views\\Yonetici\\Index.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Areas\\Admin\\Views\\Yonetici\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T12:40:02.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "Git.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Views\\Yonetici\\Git.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Admin\\Views\\Yonetici\\Git.cshtml",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Views\\Yonetici\\Git.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Areas\\Admin\\Views\\Yonetici\\Git.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T12:40:00.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "ProductIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductIndex.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductIndex.cshtml",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductIndex.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T12:43:38.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "ProductEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductEdit.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductEdit.cshtml",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductEdit.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T12:39:41.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "ProductDelete.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductDelete.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductDelete.cshtml",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductDelete.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductDelete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T12:39:40.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "ProductCreate.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductCreate.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductCreate.cshtml",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductCreate.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductCreate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T12:39:38.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\ViewModels\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\ViewModels\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\ViewModels\\ProductViewModel.cs",
+              "RelativeToolTip": "DefineXWeb\\ViewModels\\ProductViewModel.cs",
+              "ViewState": "AgIAAAgAAACAz8zMzMwDwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:20:25.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "EditImageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\ViewModels\\EditImageViewModel.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\ViewModels\\EditImageViewModel.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\ViewModels\\EditImageViewModel.cs",
+              "RelativeToolTip": "DefineXWeb\\ViewModels\\EditImageViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:14:38.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "UploadImageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\ViewModels\\UploadImageViewModel.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\ViewModels\\UploadImageViewModel.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\ViewModels\\UploadImageViewModel.cs",
+              "RelativeToolTip": "DefineXWeb\\ViewModels\\UploadImageViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:13:47.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "DefineXWeb\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "DefineXWeb\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-15T12:08:02.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Models\\ProductDto.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\Models\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Models\\ProductDto.cs",
+              "RelativeToolTip": "DefineXWeb\\Models\\ProductDto.cs",
+              "ViewState": "AgIAABAAAACAMzMzM7MswBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:53:11.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "ApiRequest.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Models\\ApiRequest.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\Models\\ApiRequest.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Models\\ApiRequest.cs",
+              "RelativeToolTip": "DefineXWeb\\Models\\ApiRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:44:19.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Models\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\Models\\ResponseDto.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineXWeb\\Models\\ResponseDto.cs",
+              "RelativeToolTip": "DefineXWeb\\Models\\ResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:47:27.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 128,
+              "Title": "20250315112434_databaseinit.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Migrations\\20250315112434_databaseinit.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.Identity\\Migrations\\20250315112434_databaseinit.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Migrations\\20250315112434_databaseinit.cs",
+              "RelativeToolTip": "DefineX.Services.Identity\\Migrations\\20250315112434_databaseinit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:24:34.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "DefineX.Services.Identity\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "DefineX.Services.Identity\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAEAAADgzMzMzMwnwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T11:20:39.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "LoggedOut.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Views\\Account\\LoggedOut.cshtml",
+              "RelativeDocumentMoniker": "DefineX.Services.Identity\\Views\\Account\\LoggedOut.cshtml",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Views\\Account\\LoggedOut.cshtml",
+              "RelativeToolTip": "DefineX.Services.Identity\\Views\\Account\\LoggedOut.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T11:19:47.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.Identity\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "DefineX.Services.Identity\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:10:59.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "20250315092733_databaseinit.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Migrations\\20250315092733_databaseinit.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\Migrations\\20250315092733_databaseinit.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Migrations\\20250315092733_databaseinit.cs",
+              "RelativeToolTip": "DefineX.Services.ProductAPI\\Migrations\\20250315092733_databaseinit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T09:27:34.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "DefineX.Services.ProductAPI\\Repository\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T09:03:59.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\DefineX_FinalProject-main\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DefineX.Services.ProductAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T09:11:24.92Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

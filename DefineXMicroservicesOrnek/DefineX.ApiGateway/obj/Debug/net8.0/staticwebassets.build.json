@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "r6f4h6dCdJr1YQhE4wwmjtZebuAtPjnrORpQYjdlggI=",
+  "Source": "DefineX.ApiGateway",
+  "BasePath": "_content/DefineX.ApiGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
