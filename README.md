@@ -9,4 +9,9 @@ npm install
 # Geliştirme sunucusunu başlat
 npm run dev #Uygulama http://localhost:3000 adresinde başlatılacaktır
 
-İsterler doğrultusunda gerçekleştirilen işlemler :
+# İsterler doğrultusunda gerçekleştirilen işlemler :
+
+## Microservise tarafına ApiGateway eklendi. Microservislere https://localhost:44390/api/ ile erişiliyor
+### Mikroservis Bağlantısı
+#### API Gateway: https://localhost:44390/api/
+#### Varsayılan ProductAPI endpoint: https://localhost:44390/api/products
