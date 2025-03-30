@@ -8,7 +8,7 @@ Andshop_vue, mikroservis mimarisiyle geliştirilmiş bir e-ticaret uygulamasın�
 ## Bağımlılıkları yükle
 npm install
 
-## Backend tarafını ayağı kaldır. 
+## Backend tarafını ayağı kaldır
 ## Geliştirme sunucusunu başlat
 npm run dev          #Uygulama http://localhost:3000 adresinde başlatılacaktır
 
